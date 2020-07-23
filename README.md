@@ -1,4 +1,5 @@
-# final-cut_vue-vuex
+# FinalCut using VueCli & Vuex
+*[FinalCut](https://github.com/theLivin/final-cut) remade using VueCli and Vuex*
 
 ## Project setup
 ```
